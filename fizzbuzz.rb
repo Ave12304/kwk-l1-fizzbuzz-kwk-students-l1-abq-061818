@@ -9,4 +9,4 @@ elsif number%3 == 0
 else
 end
 end
-fizzbuzz(14)
+fizzbuzz(10)
