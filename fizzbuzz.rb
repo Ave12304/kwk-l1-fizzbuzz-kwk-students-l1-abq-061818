@@ -5,7 +5,7 @@ if number%15 == 0
 elsif number%5 == 0
 puts "buzz"
 elsif number%3 == 0
-  puts "fizzbuzz"
+  puts "fizz"
 else
 end
 end
